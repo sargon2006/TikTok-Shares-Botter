@@ -1,4 +1,4 @@
-# TikTok-Shares-Botter
+[![Run on Repl.it](https://repl.it/badge/github/zoony1337/TikTok-Shares-Botter)](https://repl.it/github/zoony1337/TikTok-Shares-Botter)# TikTok-Shares-Botter
 Adds TikTok Shares for you.
 
 ## Information
